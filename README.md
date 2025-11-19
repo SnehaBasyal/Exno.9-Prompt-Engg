@@ -127,6 +127,7 @@ On the edge of an enchanted forest, a quiet lantern-maker crafted lights that ne
 
 
 
+
 ## Result:  
 The prompt-based video generation task was completed successfully. Various prompting techniques were explored and applied using tools like Runway Gen-2 and Synthesia. It was observed that more specific and well-structured prompts resulted in higher quality and more contextually accurate videos.
 
@@ -137,3 +138,4 @@ The prompt-based video generation task was completed successfully. Various promp
 - [Synthesia.io](https://www.synthesia.io/)
 - [Pictory.ai](https://pictory.ai/)
 - [DeepBrain.io](https://www.deepbrain.io/)
+- [hailuoai](https://hailuoai.video/)
